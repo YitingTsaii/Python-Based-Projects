@@ -8,6 +8,6 @@ We first define the parenthesis form and the printed form of a binary tree. For 
 
 Given a sequence of keys S, our task is to insert the elements of S into an initially empty standard binary tree T (and a splay tree, respectively) in the given order, and then output the following:
 
-i) the parenthesis form of tree T 
-i) the printed form of tree T 
-i) the left boundary of tree T
+(1) the parenthesis form of tree T 
+(2) the printed form of tree T <br/>
+(3) the left boundary of tree T <br/>
