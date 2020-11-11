@@ -1,6 +1,6 @@
 # Python-Based-Projects
 
-## 1. Data Structure Term Project (2019 Fall)
+## 1. Data Structure Term Project 
 
 We first define the parenthesis form and the printed form of a binary tree. For example, the parenthesis form of the binary tree below is 12(- 15(- 76(23 99))), and the printed form is on its right.
 
@@ -8,6 +8,6 @@ We first define the parenthesis form and the printed form of a binary tree. For 
 
 Given a sequence of keys S, our task is to insert the elements of S into an initially empty standard binary tree T (and a splay tree, respectively) in the given order, and then output the following:
 
-* the parenthesis form of tree T 
-* the printed form of tree T 
-* the left boundary of tree T
+i) the parenthesis form of tree T 
+i) the printed form of tree T 
+i) the left boundary of tree T
