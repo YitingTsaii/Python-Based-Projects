@@ -11,3 +11,9 @@ Given a sequence of keys S, our task is to insert the elements of S into an init
 1) the parenthesis form of tree T <br/>
 2) the printed form of tree T <br/>
 3) the left boundary of tree T 
+
+## 2. Web Scraping
+
+* extract the current movie list from an airline company's website
+* get the rating for each movie from IMDb
+* return the highest-rated movie name
