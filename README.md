@@ -16,4 +16,4 @@ Given a sequence of keys S, our task is to insert the elements of S into an init
 
 * extract the current movie list from an airline company's website
 * get the rating for each movie from IMDb
-* return the highest-rated movie name
+* return the name of the highest-rated movie 
